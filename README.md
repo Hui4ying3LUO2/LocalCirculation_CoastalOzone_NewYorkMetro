@@ -4,6 +4,7 @@ Open Resources for "Investigating Impacts of Local Circulation on Coastal Ozone 
 
 ******************Figures*********************
 Figure 12d: 20180630mapHRRRO3tend.png 
+
 Figure 12b: 20180630mapHRRRcloudsO3.png 
 
 ******************Key scripts and corresponding results*********************
