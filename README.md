@@ -10,7 +10,7 @@ Figure 12b: 20180630mapHRRRcloudsO3.png
 
 ******************Key scripts and corresponding results*********************
 
-Note: We do not own the original data to support the running of the original scripts shared below. If you would like to reproduce our results or adapt our method, please download/acquire and prepare data accordingly. Our data sources are listed in the Acknowledgements.
+Note: We do not own the original data to support the running of the scripts shared below. If you would like to reproduce our results or adapt our method, please download/acquire and prepare data accordingly. Our data sources are listed in the Acknowledgements.
 
 Temperature clustering: 
 
