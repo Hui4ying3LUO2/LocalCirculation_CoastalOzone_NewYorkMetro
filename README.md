@@ -2,12 +2,6 @@
 Open Resources for "Investigating Impacts of Local Circulation on Coastal Ozone Pollution in the New York Metropolitan Area: Evidence from Multi-year Observations" submitted to Journal of Geophysical Research: Atmospheres
 
 
-******************Figures*********************
-
-Figure 12d: 20180630mapHRRRO3tend.png 
-
-Figure 12b: 20180630mapHRRRcloudsO3.png 
-
 ******************Key scripts and corresponding results*********************
 
 Note: We do not own the original data to support the running of the scripts shared below. If you would like to reproduce our results or adapt our method, please download/acquire and prepare data accordingly. Our data sources are listed in the Acknowledgements.
@@ -31,4 +25,4 @@ Note: We do not own the original data to support the running of the scripts shar
 
     SubQUEEW_WANTCLusterOrig.txt with  0-1 representing 'W_w' and 'W_sb' days.
 
-4 All results correspond to date listed in TCLusterDateQUEEkmeans_norm0__24_3.txt
+4 All results correspond to the dates listed in TCLusterDateQUEEkmeans_norm0__24_3.txt
